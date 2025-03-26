@@ -14,10 +14,12 @@ int main()
         case 1:
             printf("You selected: B.Tech CSE\n");
 	     printf("You selected: B.Tech CSE\n");
-                printf("You selected: B.Tech CSE\n");
+                printf("You selected: B.Tech CSE\n"); 
             break;
 	    case 2:
             printf("You selected: B.Tech AIML\n");
+	     printf("You selected: B.Tech AIML\n");
+             printf("You selected: B.Tech AIML\n");
             break;
 	    case 3:
             printf("You selected: B.Tech ECE\n");
