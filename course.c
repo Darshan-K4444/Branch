@@ -13,6 +13,8 @@ int main()
     {
         case 1:
             printf("You selected: B.Tech CSE\n");
+	     printf("You selected: B.Tech CSE\n");
+                printf("You selected: B.Tech CSE\n");
             break;
 	    case 2:
             printf("You selected: B.Tech AIML\n");
@@ -26,7 +28,8 @@ int main()
         default:
             printf("Invalid choice. Please enter a number between 1 and 4.\n");
             break;
-   return 0;
+   printf("You selected: B.Tech CSE\n");
+ return 0;
 }
 
 
