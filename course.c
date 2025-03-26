@@ -28,6 +28,8 @@ int main()
             break;
 	    case 4:
             printf("You selected: B.Tech MEC\n");
+	     printf("You selected: B.Tech MEC\n");
+              printf("You selected: B.Tech MEC\n");
             break;
         default:
             printf("Invalid choice. Please enter a number between 1 and 4.\n");
