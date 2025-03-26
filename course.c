@@ -23,6 +23,8 @@ int main()
             break;
 	    case 3:
             printf("You selected: B.Tech ECE\n");
+	    printf("You selected: B.Tech ECE\n");
+            printf("You selected: B.Tech ECE\n");
             break;
 	    case 4:
             printf("You selected: B.Tech MEC\n");
