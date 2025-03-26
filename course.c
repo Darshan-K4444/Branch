@@ -6,6 +6,7 @@ int main()
     printf("1. B.Tech CSE\n");
     printf("2. B.Tech AIML\n");
     printf("3. B.Tech ECE\n");
+    printf("4. B.Tech MEC\n");
     printf("Enter your choice (1-4): ");
     scanf("%d", &choice);
     switch (choice) 
@@ -19,10 +20,12 @@ int main()
 	    case 3:
             printf("You selected: B.Tech ECE\n");
             break;
+	    case 4:
+            printf("You selected: B.Tech MEC\n");
+            break;
         default:
             printf("Invalid choice. Please enter a number between 1 and 4.\n");
             break;
-  
     return 0;
 }
 
