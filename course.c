@@ -2,7 +2,7 @@
 int main() 
 {
     int choice;
-    printf("Choose a course to display:\n");
+    printf("Choose a course to display:\n");//used switch
     printf("1. B.Tech CSE\n");
     printf("2. B.Tech AIML\n");
     printf("3. B.Tech ECE\n");
